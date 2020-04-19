@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/wsk/.gradle/caches/transforms-2/files-2.1/837b3c978e1010cadad04455f88d096a/ultra-ptr-1.0.11/res/values-zh/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "187,240,296,351,401,464,524,579,640",
+                        "endColumns": "52,55,54,49,62,59,54,60,53",
+                        "endOffsets": "235,291,346,396,459,519,574,635,689"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "97,150,206,261,311,374,434,489,550",
+                        "endColumns": "52,55,54,49,62,59,54,60,53",
+                        "endOffsets": "145,201,256,306,369,429,484,545,599"
+                    }
+                },
+                {
+                    "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/values-zh/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                }
+            ]
+        }
+    ]
+}

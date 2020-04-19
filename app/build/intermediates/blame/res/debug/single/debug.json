@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/layout_list_footer.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/layout/list_footer.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_action_focus_white_no_margin.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_action_focus_white_no_margin.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/layout_fragment_video_detail.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/layout/fragment_video_detail.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_action_search.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_light_50.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xxhdpi-v4/light_50.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_light_20.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xxhdpi-v4/light_20.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/layout_activity_spash.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/layout/activity_spash.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_landing_background.jpg.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/landing_background.jpg"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_player_reload.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_player_reload.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_light_80.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xxhdpi-v4/light_80.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_action_reply_grey_without_padding.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_action_reply_grey_without_padding.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_action_back.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_action_back.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/layout_fragment_daily.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/layout/fragment_daily.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_light_70.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xxhdpi-v4/light_70.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/layout_list_home_text_item.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/layout/list_home_text_item.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_action_favorites_added.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_action_favorites_added.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_light_40.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xxhdpi-v4/light_40.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_action_favorites_added_without_padding.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_action_favorites_added_without_padding.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/layout_activity_find_detail.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/layout/activity_find_detail.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_action_download_cut.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/action_download_cut.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_videobg.9.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/videobg.9.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_player_volume_down.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_player_volume_down.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_player_close_white.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_player_close_white.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/layout_activity_video_detail.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/layout/activity_video_detail.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/layout_activity_function.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/layout/activity_function.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_light_60.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xxhdpi-v4/light_60.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/layout_list_home_vedio_item.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/layout/list_home_vedio_item.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_action_favorites.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_action_favorites.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable_paly_selector.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable/paly_selector.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_player_play.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_player_play.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_player_progress_handle.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_player_progress_handle.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_action_reply_nopadding.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_action_reply_nopadding.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_action_menu.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_action_menu.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_video_player_bg_color.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/video_player_bg_color.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable_main_toolbar_eye_selector.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable/main_toolbar_eye_selector.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_volmn_100.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xxhdpi-v4/volmn_100.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/layout_fragment_hot.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/layout/fragment_hot.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_volmn_60.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xxhdpi-v4/volmn_60.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable_main_menu_selector.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable/main_menu_selector.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable_boman_selector.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable/boman_selector.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_eye_white.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_eye_white.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_light_100.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xxhdpi-v4/light_100.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_action_favorites_without_padding.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_action_favorites_without_padding.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/layout_activity_video_play.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/layout/activity_video_play.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_volmn_30.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xxhdpi-v4/volmn_30.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_action_share_without_padding.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_action_share_without_padding.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha9.9.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha9.9.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/layout_fragment_common_find.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/layout/fragment_common_find.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_light_30.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xxhdpi-v4/light_30.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_action_focus.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_action_focus.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_landing_countdown_background.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/landing_countdown_background.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/layout_fragment_common_hot_fragment.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/layout/fragment_common_hot_fragment.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/xml_network_security_config.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_grey_heart.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_grey_heart.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/layout_list_hot_item.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/layout/list_hot_item.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_player_volume_up.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_player_volume_up.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_action_focus_white_no_margin.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xxhdpi-v4/ic_action_focus_white_no_margin.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/layout_fragment_find.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/layout/fragment_find.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_action_play.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_action_play.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_video_toolbar_eye_selector.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xxhdpi-v4/video_toolbar_eye_selector.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_volmn_no.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xxhdpi-v4/volmn_no.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_player_pause.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_player_pause.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_action_un_focus.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_action_un_focus.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_player_next.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_player_next.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_action_reload.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/action_reload.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_video_volumn_bg.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xxhdpi-v4/video_volumn_bg.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_action_pause.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/action_pause.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_light_90.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xxhdpi-v4/light_90.png"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/layout_grid_item.xml.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/layout/grid_item.xml"
+    },
+    {
+        "merged": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_action_search_no_padding.png.flat",
+        "source": "/Users/SourceTreeJd/os_china/client_ios/OpenEyes/app/src/main/res/drawable-xhdpi-v4/ic_action_search_no_padding.png"
+    }
+]
